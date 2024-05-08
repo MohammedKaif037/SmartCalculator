@@ -38,3 +38,11 @@ This is a simple smart calculator GUI application built using Python and Tkinter
 
 Contributions are welcome! Feel free to submit issues and pull requests.
 
+## ScreenShots
+
+![App Screenshot](https://github.com/MohammedKaif037/SmartCalculator/blob/main/screenshots/Screenshot%20(2).png)
+![App Screenshot](https://github.com/MohammedKaif037/SmartCalculator/blob/main/screenshots/Screenshot%202024-05-09%20015020.png)
+
+![App Screenshot](https://github.com/MohammedKaif037/SmartCalculator/blob/main/screenshots/Screenshot%202024-05-09%20015213.png)
+
+
