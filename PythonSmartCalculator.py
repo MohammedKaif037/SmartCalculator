@@ -71,13 +71,13 @@ operations = {
 }
 
 win = Tk()
-win.geometry('500x300')
+win.geometry('600x400')
 win.title('Smart Calculator')
-win.configure(bg='purple')
+win.configure(bg='black')
 
-l1 = Label(win, text='I am a smart calculator', width=20, padx=3)
+l1 = Label(win, text='I am a smart calculator', width=20)
 l1.place(x=150, y=10)
-l2 = Label(win, text='My name is PCalculator', padx=3)
+l2 = Label(win, text='My name is PC', padx=3)
 l2.place(x=150, y=40)
 l3 = Label(win, text='What can I help you with?', padx=3)
 l3.place(x=150, y=100)
@@ -86,7 +86,7 @@ textin = StringVar()
 e1 = Entry(win, width=30, textvariable=textin)
 e1.place(x=150, y=130)
 
-b1 = Button(win, text='Just DO', command=calculate)
+b1 = Button(win, text='Estimate', command=calculate)
 b1.place(x=150, y=170)
 
 list = Listbox(win, width=20, height=3)
