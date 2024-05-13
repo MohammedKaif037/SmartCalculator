@@ -2,6 +2,11 @@
 
 This is a simple smart calculator GUI application built using Python and Tkinter. It performs basic arithmetic operations such as addition, subtraction, multiplication, division, finding LCM, HCF, and modulus.
 
+## Badges
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python Version](https://img.shields.io/badge/Python-3.8-blue)](https://www.python.org/downloads/release/python-380/)
+
+
 ## Features
 
 - Addition
